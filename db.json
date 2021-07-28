@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "JESUS",
+      "email": "jesusalejandro225@hotmail.com",
+      "telefono": "11972434963",
+      "empresa": "globalsha",
+      "id": 26
+    },
+    {
+      "nombre": "Reinalo Couto",
+      "email": "reinaldo@lolala.com",
+      "telefono": "456321987",
+      "empresa": "BCAP",
+      "id": 27
+    },
+    {
+      "nombre": "Jorge Montero",
+      "email": "maldito@mexico.com",
+      "telefono": "12345678910",
+      "empresa": "Freelancer",
+      "id": 29
+    }
+  ]
+}
